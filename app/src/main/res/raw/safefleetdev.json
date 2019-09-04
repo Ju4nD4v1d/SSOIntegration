@@ -1,0 +1,8 @@
+{
+  "client_id": "75391352-9f9b-2faf-fecd-32da54c24766",
+  "redirect_uri": "navigator://callback",
+  "authorization_scope": "openid",
+  "authorization_endpoint_uri": "https://dev-id.safefleetcloud.com/connect/authorize",
+  "token_endpoint_uri": "https://dev-id.safefleetcloud.com/connect/token",
+  "https_required": false
+}
